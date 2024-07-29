@@ -79,9 +79,9 @@ h3 {
 }
 
 .bold {
-    font-family: "Outfit", sans-serif;
     color: var(--stone-900);
     font-weight: 700;
+    font-family: "Outfit", sans-serif;
 }
 
 .preparation-time {
@@ -94,6 +94,72 @@ h3 {
 .group {
     padding: 1.5em 0;
     border-bottom: 1px solid var(--stone-150);
+}
+
+.group ul, .group ol  {
+    margin-left: 1.7em;
+}
+
+.preparation-time-list li::marker{
+    color: var(--rose-800);
+}
+
+.styled-list {
+    list-style-type: none; /* Remove default list styling */
+    counter-reset: item;
+  }
+  
+  .styled-list li {
+    counter-increment: item;
+    position: relative;
+  }
+  
+  .colored-bullets li::marker {
+    color: var(--brown-800);
+  }
+
+  .styled-list li::before {
+    content: counter(item) ".";
+    position: absolute;
+    left: -20px;
+    top: 0;
+    font-weight: bold; /* Negrito */
+    color: var(--brown-800);
+  }
+
+.group li  {
+    margin-top: .6em;
+    color: var(--stone-900);
+    font-family: "Outfit", sans-serif;
+    padding-left: 1em;
+}
+
+.nutrition-group {
+    border-bottom: none;
+}
+
+.nutrition-group ul {
+    list-style: none;
+}
+
+.nutrition-group ul li {
+    display: flex;
+    border-bottom: 1px solid var(--stone-150);
+    margin-top: 0;
+    padding: .6em 0;
+}
+
+.nutrition-group ul li:nth-child(4) {
+    border-bottom: 0;
+}
+
+.nutrition-group ul li p {
+    width: 50%;
+}
+
+.nutrition-group ul li p:nth-child(2) {
+    font-weight: 700;
+    color: var(--brown-800);
 }
 
 @media screen and (max-width:375px) {
@@ -115,7 +181,7 @@ h3 {
     } 
 
     main {
-        max-width: 750px;
+        max-width: 720px;
         padding: 2.3em;
         border-radius: 20px;
     }
