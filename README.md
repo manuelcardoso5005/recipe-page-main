@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/manuelcardoso5005/recipe-page-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://recipe-page-main-ecru.vercel.app/)
 
 ## My process
 
