@@ -23,7 +23,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 Users should be able to:
 
 - View the optimal layout for the page depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
@@ -31,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/manuelcardoso5005/recipe-page-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -121,21 +120,19 @@ By concentrating on these areas, I hope to continue growing as a web developer a
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [MDN Web Docs - CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - This resource helped me understand the fundamentals of CSS Grid layout and how to apply it effectively to create responsive designs.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Google Fonts](https://fonts.google.com/) - This site was essential for selecting and integrating Google Fonts into my project, enhancing the typography and overall aesthetic of the page.
+
+- [Frontend Mentor](https://www.frontendmentor.io/community) - Community Solutions - I found inspiration and tips from other developers’ solutions on Frontend Mentor, which helped me overcome specific challenges and improve my implementation.
+
+- [A11Y Project](https://a11yproject.com/) - This resource provided great insights into web accessibility, helping me ensure that my project meets accessibility standards and is usable by everyone.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@manuelcardoso5005](https://www.frontendmentor.io/profile/manuelcardoso5005)
+- Linkedin - [@manuelcardoso5005](https://www.linkedin.com/in/manuelcardoso5005/)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I would like to thank the Frontend Mentor community for their support and feedback. Their input was invaluable in helping me improve my project. Special thanks to the creators of the resources I used for this project.
